@@ -1,0 +1,11 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore system files
+*.DS_Store
+*.pyc
+__pycache__/
+
+# Ignore other temporary files
+*.log
+*.tmp
